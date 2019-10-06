@@ -8,6 +8,11 @@
 - dio: ^2.1.13
 - https://pub.dev/packages/dio
 
+### http
+- 网络请求
+- http: ^0.12.0+2
+- https://pub.dev/packages/http
+
 ### cookie_jar
 - cookie持久化
 - cookie_jar: ^1.0.0
@@ -30,15 +35,20 @@
 - flutter_webview_plugin: ^0.3.5
 - https://pub.dev/packages/flutter_webview_plugin
 
-# flutter_html
+### flutter_html
 - 加载富文本
 - flutter_html: ^0.10.4
 - https://pub.dev/packages/flutter_html
 
 ### flutter_markdown
-- markdown
+- 加载markdown
 - flutter_markdown: ^0.2.0
 - https://pub.dev/packages/flutter_markdown
+
+### zefyr
+- 富文本编辑器
+- zefyr: ^0.8.0
+- https://pub.dev/packages/zefyr
 
 ### badges
 - 徽章
@@ -100,12 +110,13 @@
 - flutter_spinkit: ^3.1.0
 - https://pub.dev/packages/flutter_spinkit
 
-### badges
-- 徽章
-- badges: ^1.1.0
-- https://pub.dev/packages/badges
+### flukit
+- Flutter UI组件库
+- flukit: ^1.0.2
+- https://pub.dev/packages/flukit
 
 > # 数据
+
 ### sqflite
 - 数据库
 - sqflite: ^1.1.6

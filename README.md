@@ -100,6 +100,11 @@
 - flutter_calendar_carousel: ^1.3.18
 - https://pub.dev/packages/flutter_calendar_carousel
 
+### date_range_picker
+- 日期区间选择器
+- date_range_picker: ^1.0.6
+- https://pub.dev/packages/date_range_picker
+
 ### font_awesome_flutter
 - 图标库
 - font_awesome_flutter: ^8.5.0

@@ -5,7 +5,7 @@
 > # 网络
 ### dio
 - 网络请求
-- dio: ^2.1.13
+- dio: ^3.0.9
 - https://pub.dev/packages/dio
 
 ### http
